@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="3"
+    tools:context=".fragmentUI.QuesForm1Fragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_weight="2.75"
+        >
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            >
+            <Button
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/btn1ChoiceForm1"
+                android:text="@string/app_name"
+                android:textColor="@color/black"
+                />
+            <Button
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/btn2ChoiceForm1"
+                android:text="@string/app_name"
+                android:textColor="@color/black"
+                />
+            <Button
+                android:text="@string/app_name"
+                android:textColor="@color/black"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/btn3ChoiceForm1"
+                />
+            <Button
+                android:text="@string/app_name"
+                android:textColor="@color/black"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/btn4ChoiceForm1"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            >
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/ibtnChoice1Form1"
+                android:src="@mipmap/ic_launcher"
+                />
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/ibtnChoice2Form1"
+                android:src="@mipmap/ic_launcher"
+                />
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/ibtnChoice3Form1"
+                android:src="@mipmap/ic_launcher"
+                />
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/ibtnChoice4Form1"
+                android:src="@mipmap/ic_launcher"
+                />
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnForm1Next"
+        android:layout_weight="0.25"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="Next question"
+        android:textSize="20sp"
+        />
+
+</LinearLayout>

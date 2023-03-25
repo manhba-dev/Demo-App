@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/background_app.xml" value="0.2703125" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/background_shadow__board_button.xml" value="0.22763157894736843" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/background_shadow_board.xml" value="0.22763157894736843" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/background_shadow_button.xml" value="0.2703125" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/background_shadow_button_white.xml" value="0.22763157894736843" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/custom_progress_bg.xml" value="0.22763157894736843" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/dialog_bg.xml" value="0.22763157894736843" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/dialog_bg1.xml" value="0.22763157894736843" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/ic_animals_1.xml" value="0.2703125" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/ic_baseline_east_24.xml" value="0.22763157894736843" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/ic_communication.xml" value="0.2703125" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/ic_loud_speaker.xml" value="0.2703125" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/ic_mic.xml" value="0.2703125" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/ic_mic_off.xml" value="0.13157894736842105" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/ic_notions.xml" value="0.13157894736842105" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/test.xml" value="0.2703125" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/drawable/word_pairing_fragment.xml" value="0.2703125" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/activity_boss_act.xml" value="0.1721014492753623" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/activity_category.xml" value="0.24320652173913043" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/activity_conversation.xml" value="0.23822463768115942" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/activity_sentence_topic.xml" value="0.23822463768115942" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/activity_sign_up.xml" value="0.19610507246376813" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/activity_test.xml" value="0.24909420289855072" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/activity_test_screen.xml" value="0.19610507246376813" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/activity_topic.xml" value="0.2427536231884058" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/activity_vocabulary.xml" value="0.23867753623188406" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/bottomsheetlayout.xml" value="0.21403508771929824" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/bottomsheetlayout1.xml" value="0.21403508771929824" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/bottomsheetlayout2.xml" value="0.21403508771929824" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/bottomsheetlayout3.xml" value="0.21403508771929824" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/category_item_layout.xml" value="0.24320652173913043" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/conver_topic_item_layout.xml" value="0.23822463768115942" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/failed_ques_dialog_layout.xml" value="0.22509057971014493" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/fragment_ques_form1.xml" value="0.1" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/fragment_ques_form2.xml" value="0.2223731884057971" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/fragment_ques_form3.xml" value="0.2223731884057971" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/fragment_ques_form4.xml" value="0.1" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/fragment_start_up_data.xml" value="0.24909420289855072" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/fragment_type_one_of_ques.xml" value="0.19882246376811594" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/fragment_type_two_of_ques.xml" value="0.19882246376811594" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/fragment_word_pairing.xml" value="2.4" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/gv_word_pairing_item.xml" value="0.17844202898550723" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/pass_ques_dialog_layout.xml" value="0.22509057971014493" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/restart_ques_dialog_layout.xml" value="0.22509057971014493" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/test_layout.xml" value="0.2971985383678441" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/topic_item_layout.xml" value="0.2" />
+        <entry key="..\:/User/Manh/AndroidStudioProjects/DemoGetDataFromHtmlWeb/app/src/main/res/layout/vocab_item_layout.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

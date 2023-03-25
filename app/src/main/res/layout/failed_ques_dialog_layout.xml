@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#F35F54"
+    android:padding="20dp">
+        <TextView
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="Bạn đã phát âm sai rồi. Cùng thử lại nào."
+            android:id="@+id/txtTitle"
+            />
+        <TextView
+            android:layout_marginBottom="10dp"
+            android:layout_below="@+id/txtTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:text="Có lẽ chúng ta sẽ thử lại sau nha."
+            android:id="@+id/txtContent"
+            />
+        <Button
+            android:layout_marginBottom="10dp"
+            android:id="@+id/btnRestart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtContent"
+            android:text="Thử lại"
+            android:textSize="24sp"
+            />
+
+</RelativeLayout>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    tools:context=".fragmentUI.QuesForm4Fragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Đọc câu này"
+            android:textSize="22sp"
+            android:textColor="#FFF"
+            android:gravity="center"
+            android:layout_marginTop="100dp"
+            android:layout_marginBottom="20dp"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <ImageButton
+                android:layout_width="57dp"
+                android:layout_height="60dp"
+                android:id="@+id/ibtnLoudSpeakerForm4"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtContentQuesForm4"
+                android:text="@string/app_name"
+                android:textSize="20sp"
+                android:textColor="@color/black"
+                android:layout_gravity="center_vertical"
+                />
+        </LinearLayout>
+        <ImageButton
+            android:id="@+id/ibtnMicRecordAnsForm4"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@drawable/ic_mic"
+            android:background="#C3C1C1"
+            android:scaleType="centerCrop"
+            app:tint="@color/white"
+            android:layout_gravity="center"
+            />
+        <Button
+            android:visibility="invisible"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Next Question"
+            android:id="@+id/btnNextForm4"
+            android:textSize="20sp"
+            />
+    </LinearLayout>
+
+
+</FrameLayout>
